@@ -40,13 +40,6 @@ The project involved analyzing Netflix metadata and investigating a malware inci
 
 ---
 
-## ✅ Results
-
-- 🔟 10/10 Netflix CTF Challenges Completed  
-- 🔥 5/5 Stretch Malware Investigation Challenges Completed  
-- 💯 **Total: 17/17 points earned**
-
----
 
 ## 📫 About Me
 
