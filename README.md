@@ -1,6 +1,6 @@
 # 🔍 SIEMsational CTF - Splunk Log Investigation Project
 
-This project was completed as part of the **CodePath Intermediate Cybersecurity Course** (Week 6 Project 5). It simulates a real-world SIEM investigation using **Splunk** in a Capture-the-Flag (CTF) format.
+This project was completed as part of the **CodePath Intermediate Cybersecurity Course** . It simulates a real-world SIEM investigation using **Splunk** in a Capture-the-Flag (CTF) format.
 
 The project involved analyzing Netflix metadata and investigating a malware incident using live log data.
 
@@ -33,12 +33,6 @@ The project involved analyzing Netflix metadata and investigating a malware inci
 
 ---
 
-## 📄 Files
-
-- `SIEMsational CTF.pdf` — Full report of all challenges, including search queries and answers
-- (Optional) Add screenshots if you have any, or link to the original project instructions
-
----
 
 
 ## 📫 About Me
